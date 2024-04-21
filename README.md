@@ -1,4 +1,3 @@
 # musinsa_crawling_by_selenium
 
-selenium 라이브러리를 활용하여 무신사 사이트 47가지 중분류의 하루 기준 판매량 top 90 상품들에 대한 정보, 이미지 및 리뷰를 크롤링하여 csv 파일로 저장하는 코드입니다.
-잘 작동하기는 하나 시간이 매우 오래 걸리는 점 참고하시면 되겠습니다.
+This is a code that uses the Selenium library to crawl information, images, and reviews of the top 90 products based on daily sales across 47 mid-level categories on the Musinsa site and saves it to a CSV file. Please note that while it works well, it takes a very long time to execute.
